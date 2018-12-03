@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/romain/master_2/LEE_m2/scala/tp_init/src/main/scala/target/scala-2.12/scala_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fr[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/romain/master_2/LEE_m2/scala/tp_init/src/main/scala/target/scala-2.12/classes/fr[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fr/mipn/helloworld/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/romain/master_2/LEE_m2/scala/tp_init/src/main/scala/target/scala-2.12/classes/fr/mipn/helloworld/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fr/mipn/helloworld/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/romain/master_2/LEE_m2/scala/tp_init/src/main/scala/target/scala-2.12/classes/fr/mipn/helloworld/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fr/mipn/helloworld[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/romain/master_2/LEE_m2/scala/tp_init/src/main/scala/target/scala-2.12/classes/fr/mipn/helloworld[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fr/mipn[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/romain/master_2/LEE_m2/scala/tp_init/src/main/scala/target/scala-2.12/classes/fr/mipn[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fr/mipn/helloworld/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/romain/master_2/LEE_m2/scala/tp_init/src/main/scala/target/scala-2.12/classes/fr/mipn/helloworld/Main.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
